@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Kullanışlı Bilgiler!</title>
+
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+
+    <body>
+
+        <h1>Sosyal medya bağımlılığı</h1>
+
+        <p>Sosyal medya, gerçek dünyada geçirdiğimiz zamanı azaltır. Ayrıca sürekli güncellemeler ve gönderilerle zihinlerimizi koşullandırır, bu da uzun vadede stresli hale gelebilir.</p>
+
+        <img src="https://media3.giphy.com/media/26BGGxgsEh42ABHFe/giphy.gif?cid=ecf05e47fewnmm2h6vijgpd1768vz8zxo441mpec89684gtw&rid=giphy.gif&ct=g" alt="Resim 1">
+
+        <h2>Bu durumla nasıl başa çıkabiliriz?</h2>
+
+        <ol>
+
+            <li>Çevrimiçi/çevrimdışı harcanan zaman için sınırlar belirleyebiliriz.</li>
+            <li>Teknoloji dışında bazı aktivitelerde bulunabilirsiniz<li>
+            <li>Sosyal medyada çok zaman geçirmemeye çalışabilirsiniz<li>    
+            <li>Diğer insanlara da böyle yapmaları gerektiğini söyleyebilirsiniz<li>    
+        </ol>
+        <h1>Akıllı Telefon ve Tablet bağımlılığı</h1>
+        <p>Sosyal medyanın Akıllı Telefon ve tablette olduğunu biliyoruz Ama Akıllı Telefon ve tabletlerde yeni uygulamalar onu vazgeçilemez yapıyor
+        <img src="https://cdn.create.vista.com/api/media/medium/411196382/stock-photo-digital-technology-addiction-concept-three-young-students-sitting-stairs-concentrated?token" alt="Resim 2">
+        <h2>Bu durumla nasıl başa çıkabiliriz?</h2>
+        <ol>
+
+            <li>Telefonu küçük yaşta kullanmayabilirsiniz.</li>
+            <li>Yeni Uygulamaların Dikkatinizi çekmesini engelleyebilirsiniz<li>
+            <li>Sosyal medyada çok zaman geçirmemeye çalışabilirsiniz<li>    
+            <li>Diğer insanlara da böyle yapmaları gerektiğini söyleyebilirsiniz<li>    
+        </ol>
+        <h1>Oyunlar Ve Çevrimiçi Eğlence Bağımlılığı</h1>
+        <p>Küçük yaşta oynanan oyunlar sanal dünyaya bizi çeker.Büyüklere de bazen aynı olabilir.Oyunlara da sürekli güncellemeler gelebilir.Bu bizi daha da kendine çeker.<p>
+        <img src="https://media.istockphoto.com/id/1285974262/tr/foto%C4%9Fraf/bilgisayar-oyunlar%C4%B1-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1%C4%9F%C4%B1-anne-o%C4%9Flunu-oynamay%C4%B1-b%C4%B1rakmas%C4%B1-i%C3%A7in-uyar%C4%B1yor-oyun.jpg?s=1024x1024&w=is&k=20&c=PNnpjDxYCw95PmlHEbKoQ7LXcAtKD6fR8GraxVhmLe8=" alt="Resim 2">
+        <h2>Bu durumla nasıl başa çıkabiliriz?</h2>
+        <ol>
+
+            <li>Çevrimiçi harcanan zaman için sınırlar belirleyebiliriz.</li>
+            <li>Oyunların Dikkatinizi çekmesini engelleyebilirsiniz<li>
+            <li>Sanal dünyadakiler yerine gerçek hayattaki oyunlar oynayabilirsiniz<li>    
+            <li>Diğer insanlara da böyle yapmaları gerektiğini söyleyebilirsiniz<li>    
+        </ol>
+        <h1>Hava durumu</h1>
+        <p>Ne ilgisi var mı diyorsunuz?Hava durumu sizin dışarı çıkmanızı sağlayıp bazı teknolojik aletlerden uzak durmanızı sağlar.<p>
+        <iframe src="https://www.meteoblue.com/tr/hava/widget/daily?geoloc=detect&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&windgust=1&winddirection=0&winddirection=1&uv=0&uv=1&humidity=0&humidity=1&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&pressure=1&layout=dark"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 378px; height: 466px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/tr/hava/hafta/index?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+</html>
